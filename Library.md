@@ -67,6 +67,7 @@ Step 4.
 - In the search box at the top left, search for 'Power Apps'.
 - Select Power Apps from the search results.
 - Click 'Add'. Or if Power Apps is already added, click 'Open'.
+
 🏆 Power Apps is now added to Teams and you will land on the Power Apps page once it is done loading.
 
 [![A screenshot of the search results from the Apps screen in Microsoft Teams](https://pahandsonlab.blob.core.windows.net/docsapp/160e5369-50d6-4794-b02a-db0e7500021d.png?sp=rl&st=2021-04-14T15:00:10Z&se=2030-04-15T15:00:00Z&sv=2020-02-10&sr=c&sig=jFZFWDDigKXqbHOmF1517W16JWWYbi1CaW4ARQu3gYE%3D)](https://pahandsonlab.blob.core.windows.net/docsapp/160e5369-50d6-4794-b02a-db0e7500021d.png?sp=rl&st=2021-04-14T15:00:10Z&se=2030-04-15T15:00:00Z&sv=2020-02-10&sr=c&sig=jFZFWDDigKXqbHOmF1517W16JWWYbi1CaW4ARQu3gYE%3D)
@@ -97,6 +98,7 @@ Step 7.
 
 - Name your app.
 - Click Save.
+
 In this example, the app name is 'My Books'. If there will be multiple people making apps in the same team, consider including the name of the person in the app name.
 
 [![A screenshot of a modal that appears for 'Name your app.' It has a field for inputting App name and a button for Save.](https://pahandsonlab.blob.core.windows.net/docsapp/31b531a8-0495-41c5-8194-ee707d4bfe32.png?sp=rl&st=2021-04-14T15:00:10Z&se=2030-04-15T15:00:00Z&sv=2020-02-10&sr=c&sig=jFZFWDDigKXqbHOmF1517W16JWWYbi1CaW4ARQu3gYE%3D)](https://pahandsonlab.blob.core.windows.net/docsapp/31b531a8-0495-41c5-8194-ee707d4bfe32.png?sp=rl&st=2021-04-14T15:00:10Z&se=2030-04-15T15:00:00Z&sv=2020-02-10&sr=c&sig=jFZFWDDigKXqbHOmF1517W16JWWYbi1CaW4ARQu3gYE%3D)
@@ -106,6 +108,7 @@ Creating an app involves some key steps:
 - Creating a place where our information will be saved.
 - Creating the look and feel of our app.
 - Testing our app
+
 First, you will create a table where you can save details about our books.
 
 [![A screenshot of the Power Apps studio in Teams. It has a blank canvas area in the middle, two panels on the side and menus at the top.](https://pahandsonlab.blob.core.windows.net/docsapp/e843d8fe-d2cb-4ff4-803e-c4913c887fc8.png?sp=rl&st=2021-04-14T15:00:10Z&se=2030-04-15T15:00:00Z&sv=2020-02-10&sr=c&sig=jFZFWDDigKXqbHOmF1517W16JWWYbi1CaW4ARQu3gYE%3D)](https://pahandsonlab.blob.core.windows.net/docsapp/e843d8fe-d2cb-4ff4-803e-c4913c887fc8.png?sp=rl&st=2021-04-14T15:00:10Z&se=2030-04-15T15:00:00Z&sv=2020-02-10&sr=c&sig=jFZFWDDigKXqbHOmF1517W16JWWYbi1CaW4ARQu3gYE%3D)
@@ -144,6 +147,7 @@ The table is created, but it is empty to start. You will edit an existing column
 - Author
 - Genre
 - Condition (optional)
+
 First you will revise the Name column so that it is called Title instead.
 
 Step 11.
@@ -187,6 +191,7 @@ Step 14.
 - Enter 'Non-fiction' as another choice.
 - Repeat the earlier steps for other choices you want.
 - Click Create.
+
 As an optional challenge, can you repeat these steps to add a Choice column for the Condition of a book with the choices: New, Good, Used, Damaged?
 
 [![A screenshot of a modal for adding a new column of type Choice for a book's genre. It includes choices for Fiction and Non-fiction.](https://pahandsonlab.blob.core.windows.net/docsapp/15ab7754-4ce0-4610-b1ab-2451942f4261.png?sp=rl&st=2021-04-14T15:00:10Z&se=2030-04-15T15:00:00Z&sv=2020-02-10&sr=c&sig=jFZFWDDigKXqbHOmF1517W16JWWYbi1CaW4ARQu3gYE%3D)](https://pahandsonlab.blob.core.windows.net/docsapp/15ab7754-4ce0-4610-b1ab-2451942f4261.png?sp=rl&st=2021-04-14T15:00:10Z&se=2030-04-15T15:00:00Z&sv=2020-02-10&sr=c&sig=jFZFWDDigKXqbHOmF1517W16JWWYbi1CaW4ARQu3gYE%3D)
@@ -267,7 +272,7 @@ The next section is optional and shows how to update the app to include more col
 The steps so far allowed you to create a very basic app. But what someone wants in an app for organizing books might be different from what someone else wants in theirs.
 This section is optional and provides instruction on how to add a new column and update the app. You can take the practice in this section to add any other columns that YOU want.
 
-## Add more columns
+### Add more columns
 
 Return to Power Apps when you are ready to make more changes to your app.
 
@@ -404,6 +409,7 @@ You can get into this habit as you update your app:
 - Save the changes.
 - Publish the app.
 - Repeat the steps.
+
 These steps are shown in the earlier section on 'Create your first app', but here are some reminders:
 
 - Test your app by clicking 'Preview' at the top right to enter a preview mode that lets you interact with the app. When you're done testing, click Escape to return to editing.
@@ -417,4 +423,5 @@ It is up to you to decide what details you want for books and how you want your 
 
 - Do you want to add a star rating and review for each book?
 - Do you want to add a check in and check out system?
+
 And this tutorial showed you how to organize books that you have, but how can you use these same skills to organize other things? Enjoy creating your next app and making this one even better!
