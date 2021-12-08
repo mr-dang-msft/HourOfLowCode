@@ -1,6 +1,7 @@
 # Hour of Low Code 2021: Make your own vocabulary app
 
 It can be overwhelming to learn a new language or a new topic. If you had an app to keep track of high frequency words,&nbsp;new spelling words, or key vocabulary words, it could be more manageable to recall what they mean and how to use them.
+
 In this session, you can learn how to create an app in Power Apps for saving words to a word bank. You can even translate them and add any additional details that can be helpful for studying.
 
 ## Table of contents
@@ -481,5 +482,7 @@ In this tutorial, you will have exercised several skills in app-building:
 - Writing a formula
 - Adding more functions to a formula
 - Showing the contents of variables inside controls
+
 Now you have an app that can not only translate words, but most importantly, can save them to an ongoing list. You will be able to track your learning more easily with this app. Besides words, what else can you think of that could use the same ideas in this project? If you want to include more columns in the table, such as one for an image to go with the word, you can view [the previous project for details on updating a table](https://aka.ms/houroflowcode/library).
+
 Good luck with your learning!
